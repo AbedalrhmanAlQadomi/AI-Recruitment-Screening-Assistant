@@ -1,0 +1,242 @@
+[
+  {
+    "---": "################################################################################",
+    "candidate_name": "Yousef Saleh Zarqa",
+    "is_qualified": true,
+    "overall_score": 4.74,
+    "must_have_evaluations": [
+      {
+        "requirement": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "status": "Meets",
+        "evidence": "Bachelor of Management Information Systems from Hashemite University, Jordan. The degree is considered a related field to Computer Science and Software Engineering, as indicated by the job requirement's inclusion of 'related field' and the candidate's coursework in programming, databases, and artificial intelligence.",
+        "similarity_score": 0.5424
+      },
+      {
+        "requirement": "Minimum 1 year of hands-on experience with Python.",
+        "status": "Meets",
+        "evidence": "Professional Summary: \"Recent Information Systems graduate with approximately one year of practical Python experience through an internship and university projects.\" WORK EXPERIENCE: \"Python Intern — DataTrack Solutions September 2024 – September 2025 Jordan\" (exactly 1 year of internship experience with Python). PROJECTS: \"Student Sales Prediction Project\" and \"Python Inventory Application\" both demonstrate hands-on Python work.",
+        "similarity_score": 0.7693
+      },
+      {
+        "requirement": "Practical experience with Git and GitHub.",
+        "status": "Meets",
+        "evidence": "CV states: 'Comfortable with basic Git and GitHub workflows' and 'Used Git for basic version control. Uploaded and managed project code using GitHub' in the work experience. Additionally, the Python Inventory Application project mentions 'Used GitHub to store and submit the project'.",
+        "similarity_score": 0.5758
+      },
+      {
+        "requirement": "Understanding of Machine Learning concepts.",
+        "status": "Meets",
+        "evidence": "CV states: 'Basic understanding of Machine Learning concepts through coursework and one university project.' Additionally, the candidate implemented a 'basic machine learning regression model' in a university project and learned concepts like training data, testing data, features, and predictions. Technical skills include 'basic scikit-learn' (a machine learning library).",
+        "similarity_score": 0.5511
+      }
+    ],
+    "nice_to_have_evaluations": [
+      {
+        "requirement": "Experience with Ollama, LLMs, or Hugging Face.",
+        "status": "Does Not Meet",
+        "evidence": "No evidence found",
+        "similarity_score": 0.0835
+      },
+      {
+        "requirement": "Experience with REST APIs and Gmail API.",
+        "status": "Does Not Meet",
+        "evidence": "No evidence found",
+        "similarity_score": 0.2629
+      },
+      {
+        "requirement": "Professional working proficiency in English.",
+        "status": "Does Not Meet",
+        "evidence": "Languages: Arabic (Native), English (Intermediate Working Proﬁciency)",
+        "similarity_score": 0.5547
+      },
+      {
+        "requirement": "Certifications in AI or Cloud.",
+        "status": "Does Not Meet",
+        "evidence": "Certiﬁcations: None",
+        "similarity_score": 0.3835
+      }
+    ],
+    "email_id": "**************",
+    "candidate_email": "\"ِ*****************\" <****************************>"
+  },
+  {
+    "---": "################################################################################",
+    "candidate_name": "LINA AHMAD",
+    "is_qualified": false,
+    "overall_score": 7.88,
+    "must_have_evaluations": [
+      {
+        "requirement": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "status": "Meets",
+        "evidence": "Princess Sumaya University for Technology — Amman, Jordan Graduated: 2025 Bachelor of Computer Science",
+        "similarity_score": 0.3828
+      },
+      {
+        "requirement": "Minimum 1 year of hands-on experience with Python.",
+        "status": "Does Not Meet",
+        "evidence": "No evidence found",
+        "similarity_score": 0.5464
+      },
+      {
+        "requirement": "Practical experience with Git and GitHub.",
+        "status": "Meets",
+        "evidence": "CV states: 'Comfortable with Git and GitHub' in Professional Summary. Work Experience mentions: 'Write and review code through GitHub' (Junior Software Developer) and 'Used Git and GitHub for version control and collaborative coding' (Python Developer Intern). GitHub is also referenced in a university integration project.",
+        "similarity_score": 0.6761
+      },
+      {
+        "requirement": "Understanding of Machine Learning concepts.",
+        "status": "Meets",
+        "evidence": "CV states: 'Comfortable with Git and GitHub and familiar with machine learning concepts, data preprocessing, model training, and evaluation.' Additionally, the 'MACHINE LEARNING & PROJECTS' section details work with Hugging Face Transformers, scikit-learn, model evaluation metrics, and coursework on supervised learning, classification, regression, overfitting, and model evaluation.",
+        "similarity_score": 0.4233
+      }
+    ],
+    "nice_to_have_evaluations": [
+      {
+        "requirement": "Experience with Ollama, LLMs, or Hugging Face.",
+        "status": "Meets",
+        "evidence": "The candidate has experience with Hugging Face Transformers (Technical Skills) and used it for Arabic text classification in a project (Machine Learning & Projects). They also mention familiarity with LLM concepts (Technical Skills), satisfying the requirement.",
+        "similarity_score": 0.4145
+      },
+      {
+        "requirement": "Experience with REST APIs and Gmail API.",
+        "status": "Meets",
+        "evidence": "The candidate has direct experience with REST APIs and Gmail API. Evidence includes: 'Created small REST API integrations' in the Python Developer Intern role and 'Integrated Gmail API for a university integration project' in the Machine Learning & Projects section.",
+        "similarity_score": 0.7198
+      },
+      {
+        "requirement": "Professional working proficiency in English.",
+        "status": "Meets",
+        "evidence": "Languages: Arabic (Native), English (Professional Working Proﬁciency)",
+        "similarity_score": 0.5827
+      },
+      {
+        "requirement": "Certifications in AI or Cloud.",
+        "status": "Meets",
+        "evidence": "AI Fundamentals Certiﬁcate",
+        "similarity_score": 0.6431
+      }
+    ],
+    "email_id": "**************",
+    "candidate_email": "\"ِ*****************\" <****************************>"
+  },
+  {
+    "---": "################################################################################",
+    "candidate_name": "Omar Khalil",
+    "is_qualified": false,
+    "overall_score": 5.43,
+    "must_have_evaluations": [
+      {
+        "requirement": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "status": "Meets",
+        "evidence": "Bachelor of Software Engineering — University of Jordan, Amman, Jordan Graduated: 2024",
+        "similarity_score": 0.5277
+      },
+      {
+        "requirement": "Minimum 1 year of hands-on experience with Python.",
+        "status": "Does Not Meet",
+        "evidence": "No evidence found",
+        "similarity_score": 0.5008
+      },
+      {
+        "requirement": "Practical experience with Git and GitHub.",
+        "status": "Meets",
+        "evidence": "Professional Summary: \"Strong practical experience with Git and GitHub\". Work Experience: \"Use Git and GitHub for source control, branching, pull requests, and collaborative development\". Also mentioned in Technical Skills and Project documentation using GitHub.",
+        "similarity_score": 0.8591
+      },
+      {
+        "requirement": "Understanding of Machine Learning concepts.",
+        "status": "Does Not Meet",
+        "evidence": "No evidence found",
+        "similarity_score": 0.3023
+      }
+    ],
+    "nice_to_have_evaluations": [
+      {
+        "requirement": "Experience with Ollama, LLMs, or Hugging Face.",
+        "status": "Meets",
+        "evidence": "Candidate explicitly mentions experience with Hugging Face Transformers and Ollama in the Professional Summary. The Projects section details a 'Local LLM Assistant' built with Ollama and a text classification project using Hugging Face Transformers. Technical Skills also list Hugging Face Transformers and Ollama as proficiencies.",
+        "similarity_score": 0.6617
+      },
+      {
+        "requirement": "Experience with REST APIs and Gmail API.",
+        "status": "Partially Meets",
+        "evidence": "Develop REST API integrations using Python. No evidence found for Gmail API.",
+        "similarity_score": 0.7457
+      },
+      {
+        "requirement": "Professional working proficiency in English.",
+        "status": "Meets",
+        "evidence": "Languages: Arabic: Native English: Professional Working Proﬁciency",
+        "similarity_score": 0.6677
+      },
+      {
+        "requirement": "Certifications in AI or Cloud.",
+        "status": "Does Not Meet",
+        "evidence": "No evidence found",
+        "similarity_score": 0.4042
+      }
+    ],
+    "email_id": "**************",
+    "candidate_email": "\"ِ*****************\" <****************************>"
+  },
+  {
+    "---": "################################################################################",
+    "candidate_name": "RAMI HASSAN",
+    "is_qualified": false,
+    "overall_score": 1.6,
+    "must_have_evaluations": [
+      {
+        "requirement": "Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "status": "Does Not Meet",
+        "evidence": "The candidate's education section states: 'Bachelor of Business Administration — University of Jordan Graduated: 2023' which does not match the required Bachelor's degree in Computer Science, Software Engineering, or related field.",
+        "similarity_score": 0.517
+      },
+      {
+        "requirement": "Minimum 1 year of hands-on experience with Python.",
+        "status": "Does Not Meet",
+        "evidence": "No evidence found",
+        "similarity_score": 0.1164
+      },
+      {
+        "requirement": "Practical experience with Git and GitHub.",
+        "status": "Does Not Meet",
+        "evidence": "No evidence found",
+        "similarity_score": 0.1796
+      },
+      {
+        "requirement": "Understanding of Machine Learning concepts.",
+        "status": "Does Not Meet",
+        "evidence": "No evidence found",
+        "similarity_score": 0.1595
+      }
+    ],
+    "nice_to_have_evaluations": [
+      {
+        "requirement": "Experience with Ollama, LLMs, or Hugging Face.",
+        "status": "Does Not Meet",
+        "evidence": "No evidence found. The CV mentions basic technical skills like HTML/CSS, JavaScript, and SQL, but no experience with Ollama, LLMs, or Hugging Face is stated.",
+        "similarity_score": 0.563
+      },
+      {
+        "requirement": "Experience with REST APIs and Gmail API.",
+        "status": "Does Not Meet",
+        "evidence": "No evidence found",
+        "similarity_score": 0.1389
+      },
+      {
+        "requirement": "Professional working proficiency in English.",
+        "status": "Meets",
+        "evidence": "LANGUAGES: English: Intermediate (Professional Working)",
+        "similarity_score": 0.7138
+      },
+      {
+        "requirement": "Certifications in AI or Cloud.",
+        "status": "Does Not Meet",
+        "evidence": "No evidence found. The CV mentions a 'Microsoft Office Specialist (MOS) — Certified' credential, which pertains to Microsoft Office proficiency, not AI or Cloud certifications. No AI or Cloud-specific certifications are listed.",
+        "similarity_score": 0.6175
+      }
+    ],
+    "email_id": "**************",
+    "candidate_email": "\"ِ*****************\" <****************************>"
+  }
+]

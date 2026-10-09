@@ -1,0 +1,15 @@
+Job Title: Junior AI / Python Developer
+Job Overview:
+We are looking for a Python Developer with a passion for Artificial Intelligence to join our team.
+
+Must-Have Requirements:
+- Bachelor's degree in Computer Science, Software Engineering, or related field.
+- Minimum 1 year of hands-on experience with Python.
+- Practical experience with Git and GitHub.
+- Understanding of Machine Learning concepts.
+
+Nice-to-Have Requirements:
+- Experience with Ollama, LLMs, or Hugging Face.
+- Experience with REST APIs and Gmail API.
+- Professional working proficiency in English.
+- Certifications in AI or Cloud.
