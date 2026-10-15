@@ -28,6 +28,7 @@ Job Description:
 
 JSON structure:
 {{
+    "job_title": "job title",
     "must_have": ["list of essential requirements"],
     "nice_to_have": ["list of optional requirements"],
     "skills": ["list of required skills"],
@@ -58,5 +59,3 @@ JSON structure:
 """
     response = ollama.chat(model=model, messages=[{"role": "user", "content": prompt}], format="json")
     return clean_json_response(response["message"]["content"])
-
-

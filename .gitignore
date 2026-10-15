@@ -1,8 +1,10 @@
+
 ################
 .venv/
 venv/
 env/
 ENV/
+
 
 #################
 __pycache__/
@@ -10,9 +12,11 @@ __pycache__/
 *$py.class
 *.pyo
 
+
 #############
 .env
 .env.local
+
 
 ###########
 credentials/
@@ -25,6 +29,7 @@ data/cv/*
 !data/cv/.gitkeep
 data/processed-fake-cv/processed_ids.txt
 !data/processed-fake-cv/.gitkeep
+
 
 ############### 
 .vscode/

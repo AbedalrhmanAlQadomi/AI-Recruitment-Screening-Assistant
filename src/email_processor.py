@@ -12,7 +12,10 @@ def save_processed_id(msg_id, filepath="data/processed-fake-cv/processed_ids.txt
     with open(filepath, "a", encoding="utf-8") as f:
         f.write(f"{msg_id}\n")
 
-def search_emails(service, query="has:attachment (filename:pdf OR filename:docx)"):
+def search_emails(service, job_keyword=None):
+    query = "has:attachment (filename:pdf OR filename:docx)"
+    if job_keyword:
+        query += f' "{job_keyword}"'
     results = service.users().messages().list(userId='me', q=query).execute()
     return results.get('messages', [])
 

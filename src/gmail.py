@@ -14,9 +14,10 @@ def get_gmail_service(credentials_path='credentials/credentials.json', token_pat
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
+            if not os.path.exists(credentials_path):
+                raise FileNotFoundError(f"Credentials file missing: {credentials_path}")
             flow = InstalledAppFlow.from_client_secrets_file(credentials_path, SCOPES)
             creds = flow.run_local_server(port=0)
         with open(token_path, 'w') as token_file:
             token_file.write(creds.to_json())
     return build('gmail', 'v1', credentials=creds)
-
